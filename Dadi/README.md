@@ -10,4 +10,4 @@
     - Altrimenti se il numero del giocatore è minore del numero della CPU stampa "Hai perso"
     - Altrimenti stampa "Pareggio"
     - [x] Creo un pulsante che una volta premuto mi stampa in console 
-    - [ ] Genero i valori risultanti anche in pagina per l'utente
+    - [x] Genero i valori risultanti anche in pagina per l'utente
