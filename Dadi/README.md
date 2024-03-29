@@ -2,7 +2,7 @@
 2. Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 - Esecuzione Logica
-    - [ ] Creo due variabili con valore minimo e valore massimo.
+    - [x] Creo due variabili con valore minimo e valore massimo.
     - [ ] Creo due variabili (una per il dado utente e una per il dado della CPU) che mi generano un valore randomico da 1 a 6.
     - [ ] Faccio il confronto tra i risultati.
 
