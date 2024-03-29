@@ -6,7 +6,12 @@
 let min = 1;
 let max = 6;
 
-// Creo la mia variabile per la generazione del numero random di un dado(i valori di 1 e 6 sono compresi)
+// Creo la mia variabile per la generazione del numero random del dado giocatore(i valori di 1 e 6 sono compresi)
 let randomNumPlayer = Math.floor(Math.random() * (max - min + 1) + min);
-    // log alla console
-    console.log(`valore dado`, randomNumPlayer);
+// log alla console
+console.log(`dado giocatore`, randomNumPlayer);
+
+// Creo la mia variabile per la generazione del numero random del dado CPU(i valori di 1 e 6 sono compresi)
+let randomNumCpu = Math.floor(Math.random() * (max - min + 1) + min);
+// log alla console
+console.log(`dado computer`, randomNumCpu);
