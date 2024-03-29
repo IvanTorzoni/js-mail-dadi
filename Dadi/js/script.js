@@ -15,3 +15,12 @@ console.log(`dado giocatore`, randomNumPlayer);
 let randomNumCpu = Math.floor(Math.random() * (max - min + 1) + min);
 // log alla console
 console.log(`dado computer`, randomNumCpu);
+
+// Gestione dei casi per determinare chi ha rollato il numero più alto o se è avvenuto un pareggio
+if (randomNumPlayer > randomNumCpu) {
+    console.log("Hai vinto");
+} else if (randomNumPlayer < randomNumCpu) {
+    console.log("Hai perso");
+} else {
+    console.log("Pareggio");
+}
