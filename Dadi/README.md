@@ -9,5 +9,5 @@
     - Se in numero del giocatore è maggiore al numero della CPU stampa "Hai Vinto"
     - Altrimenti se il numero del giocatore è minore del numero della CPU stampa "Hai perso"
     - Altrimenti stampa "Pareggio"
-    - [ ] Creo un pulsante che una volta premuto mi stampa in console 
+    - [x] Creo un pulsante che una volta premuto mi stampa in console 
     - [ ] Genero i valori risultanti anche in pagina per l'utente
