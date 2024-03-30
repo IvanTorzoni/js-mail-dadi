@@ -4,7 +4,7 @@ controlla che sia nella lista di chi può accedere,
 stampa un messaggio appropriato sull’esito del controllo.
 
 ## Esecuzione Logica
- - [ ] Creiamo un bottone e un input mail per l'utente 
+ - [x] Creiamo un bottone e un input mail per l'utente 
  - [ ] Creo l'array contenente le email già registrate 
  - [ ] Collego il pulsante creato nel file HTML
  - [ ] Creo due variabili, una per l'acquisizione del valore inserito dall' utente nell'input e l'altra per il risultato
